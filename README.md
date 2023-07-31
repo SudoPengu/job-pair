@@ -14,5 +14,5 @@
 
  ![alt-text](https://raw.githubusercontent.com/SudoPengu/job-pair/a037cfbf0a4637ae75e645542331a9cf8d219190/images/expo-go.svg)
 
-Or, open this link on your device: [exp://exp.host/@gamoscj/job-pair?release-channel=default](link)
+Or, open this link on your device: [exp://exp.host/@gamoscj/job-pair?release-channel=default](exp://exp.host/@gamoscj/job-pair?release-channel=default)
 
