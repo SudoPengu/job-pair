@@ -1,14 +1,14 @@
-# Job Pair
+# Expo Router Example
 
- > Introducing Job Pair, a powerful job search application built with JavaScript, React Native, and Expo. With its user-friendly interface and advanced features, Job Pair allows you to effortlessly discover and apply for job opportunities in your vicinity, revolutionizing the way you find employment. Experience the convenience of a seamless job search process with Job Pair, where finding your dream job is just a tap away.
+Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
----
- #### Preview release channel "default"
- Open the camera app on your device and scan the code below
+## 🚀 How to use
 
- 
+```sh
+npx create-expo-app -e with-router
+```
 
+## 📝 Notes
 
-
- 
- 
+- [Expo Router: Docs](https://expo.github.io/router)
+- [Expo Router: Repo](https://github.com/expo/router)
