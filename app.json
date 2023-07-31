@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "job-pair",
-    "slug": "job-pair"
+    "slug": "job-pair",
+    "extra": {
+      "eas": {
+        "projectId": "4790bceb-0819-4ca1-8f17-a3e9257b27b2"
+      }
+    },
+    "android": {
+      "package": "com.gamoscj.jobpair"
+    }
   }
 }
