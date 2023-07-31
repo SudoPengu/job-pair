@@ -6,7 +6,7 @@
  #### Preview release channel "default"
  Open the camera app on your device and scan the code below
 
- ![alt-text](https://github.com/SudoPengu/job-pair/blob/main/images/Screenshot_20230731_173147.jpg)
+ ![alt-text](https://github.com/SudoPengu/job-pair/blob/main/images/expo-go.svg)
 
  
 
