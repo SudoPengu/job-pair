@@ -27,6 +27,9 @@ npm install
 npm start
 ```
 
+>**Note**
+>
+> This is an open source application, you can clone it and just create your own version and use it.
 <deatails>
 <summary><h4>Packages</h4></summary>
 
@@ -40,3 +43,4 @@ npm start
 | Axios |
 
 </details>
+
