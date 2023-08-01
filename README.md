@@ -2,16 +2,41 @@
 
  > Introducing Job Pair, a powerful job search application built with JavaScript, React Native, and Expo. With its user-friendly interface and advanced features, Job Pair allows you to effortlessly discover and apply for job opportunities in your vicinity, revolutionizing the way you find employment. Experience the convenience of a seamless job search process with Job Pair, where finding your dream job is just a tap away.
 
+ ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/1.png)
+
 ---
 ## Images
-| <!-- --> | <!-- --> | <!-- --> |
-| --- | --- | --- |
-| ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173147.jpg) | ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173155.jpg) | ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173204.jpg)
-| ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173206.jpg) | ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173228.jpg) | ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/Screenshot_20230731_173237.jpg) |
+| <!-- --> | <!-- --> 
+| --- | --- 
+| ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/2.png) | ![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/3.png)| 
 
- #### Preview release channel "default"
- Open the camera app on your device and scan the code below
+![](https://raw.githubusercontent.com/SudoPengu/job-pair/main/images/4.png) 
 
- ![alt-text](https://raw.githubusercontent.com/SudoPengu/job-pair/a037cfbf0a4637ae75e645542331a9cf8d219190/images/expo-go.svg)
+## Installation
 
+>**Warning**
+>
+> Make sure you have git, expo, and Node.JS installed in your machine before doing the process.
 
+After having all the necesarry requirements close and execute - 
+
+```shell
+git clone https://github.com/SudoPengu/job-pair.git ~/jobPair
+cd ~/jobPair
+npm install
+npm start
+```
+
+<deatails>
+<summary><h4>Packages</h4></summary>
+
+| Packages |
+|---|
+| Node.JS | 
+| React JS |
+| React Native |
+| Expo CLI |
+| Expo Router |
+| Axios |
+
+</details>
